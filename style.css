@@ -1,0 +1,43 @@
+body{
+	width: 100;
+
+}
+.td1{
+	background-color: #0e376f;
+	padding: 20px;
+	 font-family: Arial;
+	 text-align: center;
+	 word-spacing: 13px;
+	 font-size: 17px;
+}
+#p1{
+	 word-spacing: -1px;
+}
+.td2{
+	background-color: #fee202;
+	padding-bottom: 20px;
+	font-family: Helvetica;
+	font-size:16px;
+}
+#p1{
+text-align: center;
+background-color: black;
+color: white;
+width: 33%;
+padding: 15px;
+margin: auto;
+font-size: 20px;
+font-family: Helvetica;
+
+}
+
+.td3{
+	padding: 25px;
+	background-color: #0e376f;
+	text-align: center;
+	color: white;
+	line-height: 1.3;
+	font-family: Helvetica;
+	font-size: 13px;
+	
+}
